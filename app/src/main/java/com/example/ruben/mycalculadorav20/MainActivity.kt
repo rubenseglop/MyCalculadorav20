@@ -241,6 +241,4 @@ class MainActivity : AppCompatActivity() {
         val hexString = java.lang.Integer.toHexString(decimal.toInt()).toUpperCase()
         imprime_pantalla.setText(hexString)
     }
-
-
 }
