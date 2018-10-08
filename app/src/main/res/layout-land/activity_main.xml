@@ -51,21 +51,21 @@
                 android:textSize="20sp" />
 
             <Button
-                android:id="@+id/mc"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@drawable/botonesope"
-                android:onClick="mc"
-                android:text="MC"
-                android:textSize="20sp" />
-
-            <Button
                 android:id="@+id/mrc"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/botonesope"
                 android:onClick="mrchex"
                 android:text="MRC"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/mc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/botonesope"
+                android:onClick="mc"
+                android:text="MC"
                 android:textSize="20sp" />
 
             <Button
